@@ -1,0 +1,11 @@
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaQuadrado\bin\Debug\AulaQuadrado.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaQuadrado\bin\Debug\AulaQuadrado.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaQuadrado\bin\Debug\AulaQuadrado.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaQuadrado\obj\Debug\AulaQuadrado.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaQuadrado\obj\Debug\AulaQuadrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaQuadrado\obj\Debug\AulaQuadrado.Form1.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaQuadrado\obj\Debug\AulaQuadrado.Properties.Resources.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaQuadrado\obj\Debug\AulaQuadrado.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaQuadrado\obj\Debug\AulaQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaQuadrado\obj\Debug\AulaQuadrado.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\AulaQuadrado\obj\Debug\AulaQuadrado.pdb
